@@ -5,3 +5,4 @@ Given an `app.js` file, write an API with path `/` using express JS to send `Exp
 Export the express instance using default export syntax.
 
 <b>Use Common JS module syntax</b>.
+# coding_practice_3-get-a-string
